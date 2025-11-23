@@ -85,12 +85,13 @@ function colorFromTemp(temp) {
   else return '#f53535'; // Red for hot
   backgroundColor
 }
-  </script>
+</script>
 
 
 
 <style>
 .frío {
+  
   background-color: #ADD8E6;}
 
 .templado {
