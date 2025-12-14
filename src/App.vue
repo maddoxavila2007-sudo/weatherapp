@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+<div id="app">
     <main>
       <div class="search-box">
         <input
